@@ -37,6 +37,7 @@
     <title>My Books Store</title>
 </head>
 <body>
+    <!-- Day la body -->
     <h2>Add New User</h2>
     <form name="formADDUSER" method="post">
         <fieldset> 
