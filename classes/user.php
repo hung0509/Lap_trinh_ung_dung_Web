@@ -1,5 +1,7 @@
 <?
     class User{
+
+        // Class usser
         public $id;
         public $username;
         public $password;
